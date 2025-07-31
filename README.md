@@ -57,25 +57,25 @@ Wanderlust is a comprehensive **Airbnb-clone** that allows:
 - Optimized for mobile and desktop
 
 ## ✨ Highlights
-📦 Session management with MongoDB
-🧠 Schema validation using Joi
-🌐 Cloud image handling with Cloudinary
-⚠️ Error handling using custom middleware
-🗺️ Location services via Mapbox
-🔒 Role-based access control for listings and reviews
+- 📦 Session management with MongoDB
+- 🧠 Schema validation using Joi
+- 🌐 Cloud image handling with Cloudinary
+- ⚠️ Error handling using custom middleware
+- 🗺️ Location services via Mapbox
+- 🔒 Role-based access control for listings and reviews
 
 ## Install dependencies
-npm install
+- npm install
 
 ## Create .env file with the following:
-ATLASDB_URL=your-mongodb-atlas-uri
-SECRET=your-session-secret
-CLOUDINARY_CLOUD_NAME=your-cloud-name
-CLOUDINARY_KEY=your-cloudinary-key
-CLOUDINARY_SECRET=your-cloudinary-secret
+- ATLASDB_URL=your-mongodb-atlas-uri
+- SECRET=your-session-secret
+- CLOUDINARY_CLOUD_NAME=your-cloud-name
+- CLOUDINARY_KEY=your-cloudinary-key
+- CLOUDINARY_SECRET=your-cloudinary-secret
 
 ## Start the development server
-node app.js or nodemon app.js
+- node app.js or nodemon app.js
 
 👤 Author
 Naghma Taj
